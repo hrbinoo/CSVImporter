@@ -1,0 +1,10 @@
+services:
+  db:
+    container_name: postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: raynet
+      POSTGRES_PASSWORD: hesloveslo
+      POSTGRES_DB: raynet
+    ports:
+      - "5332:5432"

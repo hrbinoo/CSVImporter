@@ -1,0 +1,6 @@
+api:
+    url: https://app.raynet.cz/api/v2
+    key: crm-key
+    username: hrbinoo@gmail.com
+    instance-name: rayapp
+    company-path: /company/

@@ -1,0 +1,8 @@
+mail:
+  source-mail: hrbinoo@gmail.com
+  destination-mail: hrbinoo@gmail.com
+  subject-success: Raynet CRM - Upsert Notification [SUCCESS]
+  subject-failure: Raynet CRM - Upsert Notification [FAILURE]
+  body-success: Upsert was successful.
+  body-failure: Upsert failed.
+
